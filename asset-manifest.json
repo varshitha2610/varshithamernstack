@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/varshitha2610/varshithamernstack.git/static/css/main.60876687.css",
-    "main.js": "/varshitha2610/varshithamernstack.git/static/js/main.803a0668.js",
-    "static/js/453.311ad80b.chunk.js": "/varshitha2610/varshithamernstack.git/static/js/453.311ad80b.chunk.js",
-    "index.html": "/varshitha2610/varshithamernstack.git/index.html",
-    "main.60876687.css.map": "/varshitha2610/varshithamernstack.git/static/css/main.60876687.css.map",
-    "main.803a0668.js.map": "/varshitha2610/varshithamernstack.git/static/js/main.803a0668.js.map",
-    "453.311ad80b.chunk.js.map": "/varshitha2610/varshithamernstack.git/static/js/453.311ad80b.chunk.js.map"
+    "main.css": "/varshithamernstack/static/css/main.60876687.css",
+    "main.js": "/varshithamernstack/static/js/main.3348cd7d.js",
+    "static/js/453.311ad80b.chunk.js": "/varshithamernstack/static/js/453.311ad80b.chunk.js",
+    "index.html": "/varshithamernstack/index.html",
+    "main.60876687.css.map": "/varshithamernstack/static/css/main.60876687.css.map",
+    "main.3348cd7d.js.map": "/varshithamernstack/static/js/main.3348cd7d.js.map",
+    "453.311ad80b.chunk.js.map": "/varshithamernstack/static/js/453.311ad80b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60876687.css",
-    "static/js/main.803a0668.js"
+    "static/js/main.3348cd7d.js"
   ]
 }
