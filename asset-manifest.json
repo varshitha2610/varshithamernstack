@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/varshitha2610/varshithamernstack.git/static/css/main.60876687.css",
+    "main.js": "/varshitha2610/varshithamernstack.git/static/js/main.803a0668.js",
+    "static/js/453.311ad80b.chunk.js": "/varshitha2610/varshithamernstack.git/static/js/453.311ad80b.chunk.js",
+    "index.html": "/varshitha2610/varshithamernstack.git/index.html",
+    "main.60876687.css.map": "/varshitha2610/varshithamernstack.git/static/css/main.60876687.css.map",
+    "main.803a0668.js.map": "/varshitha2610/varshithamernstack.git/static/js/main.803a0668.js.map",
+    "453.311ad80b.chunk.js.map": "/varshitha2610/varshithamernstack.git/static/js/453.311ad80b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60876687.css",
+    "static/js/main.803a0668.js"
+  ]
+}
